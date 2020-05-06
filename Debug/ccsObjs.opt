@@ -1,0 +1,1 @@
+"./main.obj" "./tm4c1294ncpdt_startup_ccs.obj" "./driverlib/cpu.obj" "./driverlib/fpu.obj" "./driverlib/gpio.obj" "./driverlib/interrupt.obj" "./driverlib/sysctl.obj" "./driverlib/uart.obj" "../tm4c1294ncpdt.cmd" -llibc.a 
